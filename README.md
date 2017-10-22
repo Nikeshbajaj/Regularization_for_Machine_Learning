@@ -1,4 +1,20 @@
 # Regularization for Machine Learning
+### Contents
+* Regularized Least Squares -RLS [Ref](https://en.wikipedia.org/wiki/Regularized_least_squares)
+* Nu-Method [Ref]()
+* Iterative Landweber Method [Ref](https://en.wikipedia.org/wiki/Landweber_iteration)
+* Singular Value Decomposition
+* Trunctated SVD [Ref1](http://arxiv.org/pdf/0909.4061) [Ref2](http://langvillea.people.cofc.edu/DISSECTION-LAB/Emmie%27sLSI-SVDModule/p5module.html)
+* Spectral cut-off
+
+* Kernal Learning
+  * Linear     *$$ K(X,Y) = X^T Y $$*
+  * Polynomial *$$ K(X,Y) = (X^T Y + 1)^p $$*
+  * Gaussian   *$$ K(X,Y) = exp(∥X−Y∥^2/2σ2) Y$$*
+
+* K-Fold Cross Validation
+
+
 ## GUI
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikeshbajaj/Regularization_for_Machine_Learning/master/GUI_Win_Lin.jpg" width="800"/>
