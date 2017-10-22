@@ -7,18 +7,16 @@
 * Trunctated SVD [Referance 1](http://arxiv.org/pdf/0909.4061) [Referance 2](http://langvillea.people.cofc.edu/DISSECTION-LAB/Emmie%27sLSI-SVDModule/p5module.html)
 * Spectral cut-off
 
-* Kernal Learning
-  * Linear     * K(X,Y) = X^T Y *  ![equation](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20X%5ETY)
-  * Polynomial * K(X,Y) = (X^T Y + 1)^p *
-  * Gaussian   * K(X,Y) = exp(∥X−Y∥^2/2σ2) *
-
 * K-Fold Cross Validation
 
-![equation](http://latex.codecogs.com/gif.latex?%5CLARGE%20K%28X%2CY%29%20%3D%20X%5ETY)
+* Kernal Learning
+  * Linear     ![equation](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20X%5ETY)
+  * Polynomial ![equation](http://latex.codecogs.com/gif.download?%5Clarge%20K%28X%2CY%29%20%3D%20%28X%5ET%20Y%20+%201%29%5Ep)
+  * Gaussian   ![equation](http://latex.codecogs.com/gif.download?K%28X%2CY%29%20%3D%20exp%5Cleft%28%20%5Cfrac%7B%5Cleft%20%5C%7C%20X-Y%20%5Cright%20%5C%7C%5E2%7D%7B2%5Csigma%20%5E2%7D%20%5Cright%29)
 
-*$$ K(X,Y) = exp(∥X−Y∥^2/2σ2) Y$$*
-
-![equation](http://latex.codecogs.com/gif.latex?P%28s%20%7C%20O_t%20%29%3D%5Ctext%20%7B%20Probability%20of%20a%20sensor%20reading%20value%20when%20sleep%20onset%20is%20observed%20at%20a%20time%20bin%20%7D%20t)
+* K(X,Y) = X^T Y *
+* K(X,Y) = (X^T Y + 1)^p *
+* K(X,Y) = exp(∥X−Y∥^2/2σ2) *
 
 ## GUI
 <p align="center">
