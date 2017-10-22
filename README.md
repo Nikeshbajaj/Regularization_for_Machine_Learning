@@ -20,7 +20,7 @@
 
 ## Testing
 GUI is tested on followwing version of libraries
-* Python     2.7
+* Python     2.7     *if you want to use with Python 3, just change all the print command as per python 3*
 * Numpy      1.10.4
 * Matplotlib 1.15.1
 * Scipy      0.17.0
