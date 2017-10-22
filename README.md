@@ -10,9 +10,9 @@
 * K-Fold Cross Validation
 
 * Kernal Learning
-  * Linear     ![equation](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20X%5ETY)
-  * Polynomial ![equation](http://latex.codecogs.com/gif.download?%5Clarge%20K%28X%2CY%29%20%3D%20%28X%5ET%20Y%20+%201%29%5Ep)
-  * Gaussian   ![equation](http://latex.codecogs.com/gif.download?K%28X%2CY%29%20%3D%20exp%5Cleft%28%20%5Cfrac%7B%5Cleft%20%5C%7C%20X-Y%20%5Cright%20%5C%7C%5E2%7D%7B2%5Csigma%20%5E2%7D%20%5Cright%29)
+  * Linear     ![equation1](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20X%5ETY)
+  * Polynomial ![equation2](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20%28X%5ET%20Y%20+%201%29%5Ep)
+  * Gaussian   ![equation3](http://latex.codecogs.com/gif.latex?K%28X%2CY%29%20%3D%20exp%5Cleft%28%20%5Cfrac%7B%5Cleft%20%5C%7C%20X-Y%20%5Cright%20%5C%7C%5E2%7D%7B2%5Csigma%20%5E2%7D%20%5Cright%29)
 
 * K(X,Y) = X^T Y *
 * K(X,Y) = (X^T Y + 1)^p *
