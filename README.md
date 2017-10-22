@@ -1,9 +1,11 @@
 # Regularization for Machine Learning
+### These contents were taugh in summer school [**RegML 2016**](http://lcsl.mit.edu/courses/regml/regml2016/) by [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and this GUI in python was submitted as part of final exam.
+
 #### Methods
 * Regularized Least Squares -RLS [Referance](https://en.wikipedia.org/wiki/Regularized_least_squares)
 * Nu-Method [Referance]()
 * Iterative Landweber Method [Referance](https://en.wikipedia.org/wiki/Landweber_iteration)
-* Singular Value Decomposition
+* Singular Value Decomposition [Reference](https://en.wikipedia.org/wiki/Singular-value_decomposition)
 * Trunctated SVD [Referance 1](http://arxiv.org/pdf/0909.4061) [Referance 2](http://langvillea.people.cofc.edu/DISSECTION-LAB/Emmie%27sLSI-SVDModule/p5module.html)
 * Spectral cut-off
 
@@ -62,8 +64,9 @@ If you are using Spyder or ipython qt, browes to directory, open RegML_GUIv2.1.p
 
 
 ## Getting Started with DEMO
-Getting_Started_Demo is a Ipython -Notebook, which can be open in Ipython-Notebook or Jupyter
+Getting_Started_Demo is a IPython -Notebook, which can be open in Ipython-Notebook or Jupyter
 
+### [Notebook](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/Getting_Started_Demo.ipynb)
 
 ______________________
 
@@ -73,4 +76,4 @@ n.bajaj@qmul.ac.uk
 
 nikesh.bajaj@elios.unige.it
 
-[Homepage](http://nikeshbajaj.in)
+[http://nikeshbajaj.in](http://nikeshbajaj.in)
