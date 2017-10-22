@@ -66,7 +66,10 @@ If you are using Spyder or ipython qt, browes to directory, open RegML_GUIv2.1.p
 ## Getting Started with DEMO
 Getting_Started_Demo is a IPython -Notebook, which can be open in Ipython-Notebook or Jupyter
 
-### [Notebook](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/Getting_Started_Demo.ipynb)
+#[**Notebook**](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/Getting_Started_Demo.ipynb)
+
+
+#[**RegML Library**](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML.py)
 
 ______________________
 
