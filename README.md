@@ -8,7 +8,7 @@
 * Spectral cut-off
 
 * Kernal Learning
-  * Linear     * K(X,Y) = X^T Y * 
+  * Linear     * K(X,Y) = X^T Y *  ![equation](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20X%5ETY)
   * Polynomial * K(X,Y) = (X^T Y + 1)^p *
   * Gaussian   * K(X,Y) = exp(∥X−Y∥^2/2σ2) *
 
