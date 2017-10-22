@@ -20,10 +20,10 @@
 
 ## Testing
 GUI is tested on followwing version of libraries
-Python     2.7
-Numpy      1.10.4
-Matplotlib 1.15.1
-Scipy      0.17.0
+* Python     2.7
+* Numpy      1.10.4
+* Matplotlib 1.15.1
+* Scipy      0.17.0
 
 ## Getting starting with GUI
 
@@ -49,8 +49,12 @@ If you are using Spyder or ipython qt, browes to directory, open RegML_GUIv2.1.p
 Getting_Started_Demo is a Ipython -Notebook, which can be open in Ipython-Notebook or Jupyter
 
 
-------------
-Nikesh Bajaj
+______________________
+
+### Nikesh Bajaj
+
 n.bajaj@qmul.ac.uk
+
 nikesh.bajaj@elios.unige.it
-nikeshbajaj.in
+
+[Homepage](http://nikeshbajaj.in)
