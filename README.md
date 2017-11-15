@@ -64,13 +64,11 @@ If you are using Spyder or ipython qt, browes to directory, open RegML_GUIv2.1.p
 Open terminal, cd to directory contaning all the files and execute following command
 ```
 $ python RegML_GUIv2.1.py
-
 ```
 if you have both python 2 and python 3
 
 ```
 $ python2 RegML_GUIv2.1.py
-
 ```
 
 If you are using Spyder or ipython qt, browes to directory, open RegML_GUIv2.1.py file and run it
