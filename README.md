@@ -37,14 +37,14 @@
 
 ## Requirments 
 ### Following libraries are required to use all the functions in RegML library
-1. Python(>=2.7)     
+1. Python(=2.7)     
 2. Numpy(>=1.10.4)     [Numpy](https://pypi.python.org/pypi/numpy) 
 3. Matplotlib(>=0.98)  [Matplotlib](https://github.com/matplotlib/matplotlib) 
 4. Scipy(>=0.12)       Optional -(If you need to import .mat data files)  [Scipy](https://www.scipy.org/install.html) 
 
 ## Tested with following version
 GUI is tested on followwing version of libraries
-* Python     2.7     **(if you want to use with Python 3, just change all the print command as per python 3)**
+* Python     2.7     **(this GUI doesn't work with python 3, need to change a lot to work with python 3)**
 * Numpy      1.10.4
 * Matplotlib 1.15.1
 * Scipy      0.17.0
@@ -64,6 +64,13 @@ If you are using Spyder or ipython qt, browes to directory, open RegML_GUIv2.1.p
 Open terminal, cd to directory contaning all the files and execute following command
 ```
 $ python RegML_GUIv2.1.py
+
+```
+if you have both python 2 and python 3
+
+```
+$ python2 RegML_GUIv2.1.py
+
 ```
 
 If you are using Spyder or ipython qt, browes to directory, open RegML_GUIv2.1.py file and run it
