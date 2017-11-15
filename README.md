@@ -1,6 +1,12 @@
 # Regularization for Machine Learning
 ### These contents were taugh in summer school [**RegML 2016**](http://lcsl.mit.edu/courses/regml/regml2016/) by [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and this GUI in python was submitted as part of final exam.
 
+#### All the functions are coded and tested are in [RegML.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML.py) and GUIs code structure is in [RegML_GUIv2.1.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML_GUIv2.1.py)
+
+#### [Page](https://nikeshbajaj.github.io/Regularization_for_Machine_Learning/)
+
+
+
 #### Methods
 * Regularized Least Squares -RLS [Referance](https://en.wikipedia.org/wiki/Regularized_least_squares)
 * Nu-Method [Referance]()
@@ -36,9 +42,9 @@
 3. Matplotlib(>=0.98)  [Matplotlib](https://github.com/matplotlib/matplotlib) 
 4. Scipy(>=0.12)       Optional -(If you need to import .mat data files)  [Scipy](https://www.scipy.org/install.html) 
 
-## Testing
+## Tested with following version
 GUI is tested on followwing version of libraries
-* Python     2.7     *if you want to use with Python 3, just change all the print command as per python 3*
+* Python     2.7     **(if you want to use with Python 3, just change all the print command as per python 3)**
 * Numpy      1.10.4
 * Matplotlib 1.15.1
 * Scipy      0.17.0
