@@ -5,6 +5,18 @@
 
 #### [Page](https://nikeshbajaj.github.io/Regularization_for_Machine_Learning/)
 
+## Installation
+```
+pip install regml
+```
+
+## Opening GUI:
+
+```
+import regml
+regml.GUI()
+
+```
 
 
 #### Methods
