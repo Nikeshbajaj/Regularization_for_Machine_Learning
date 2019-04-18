@@ -44,7 +44,7 @@
 
 ## Tested with following version
 GUI is tested on followwing version of libraries
-* Python     2.7     **(this GUI doesn't work with python 3, need to change a lot to work with python 3)**
+* Python     2.7 / 3 
 * Numpy      1.10.4
 * Matplotlib 1.15.1
 * Scipy      0.17.0
