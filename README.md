@@ -3,7 +3,8 @@
 
 #### All the coded and tested functions are in [RegML.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML.py) and GUIs code structure is in [RegML_GUIv2.1.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML_GUIv2.1.py)
 
-#### [Page](https://nikeshbajaj.github.io/Regularization_for_Machine_Learning/)
+## [Github Page](https://nikeshbajaj.github.io/Regularization_for_Machine_Learning/)
+## [PyPi -project](https://pypi.org/project/regml/)
 
 ## Installation
 ```
