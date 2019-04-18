@@ -1,4 +1,4 @@
-# Regularization for Machine Learning
+# Regularization methods for machine learning
 ### These contents were taugh in summer school [**RegML 2016**](http://lcsl.mit.edu/courses/regml/regml2016/) by [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and this GUI in python was submitted as part of final exam.
 
 #### All the coded and tested functions are in [RegML.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML.py) and GUIs code structure is in [RegML_GUIv2.1.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML_GUIv2.1.py)
