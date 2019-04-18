@@ -1,0 +1,17 @@
+
+include *.md
+include LICENSE.txt
+include requirements.txt
+include regml/__init__.py
+
+recursive-include regml *.py
+recursive-include regml *.txt
+recursive-include examples *.py
+recursive-include examples *.ipynb
+recursive-include *.ipynb
+
+
+### Exclude
+
+recursive-exclude * __pycache__
+recursive-exclude *.yml
