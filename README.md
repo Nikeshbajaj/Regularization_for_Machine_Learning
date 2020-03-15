@@ -3,6 +3,24 @@
 
 [![DOI](https://zenodo.org/badge/107844831.svg)](https://zenodo.org/badge/latestdoi/107844831)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI version fury.io](https://badge.fury.io/py/regml.svg)](https://pypi.org/project/regml/)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/regml.svg)](https://pypi.python.org/pypi/regml/)
+[![GitHub release](https://img.shields.io/github/release/nikeshbajaj/regml.svg)](https://GitHub.com/nikeshbajaj/regml/releases/)
+[![PyPI format](https://img.shields.io/pypi/format/regml.svg)](https://pypi.python.org/pypi/regml/)
+[![PyPI implementation](https://img.shields.io/pypi/implementation/regml.svg)](https://pypi.python.org/pypi/regml/)
+[![HitCount](http://hits.dwyl.io/nikeshbajaj/regml.svg)](http://hits.dwyl.io/nikeshbajaj/regml)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nikeshbajaj/regml?style=plastic)
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/nikeshbajaj/spkit.svg)](http://isitmaintained.com/project/nikeshbajaj/regml "Percentage of issues still open")
+[![PyPI download month](https://img.shields.io/pypi/dm/regml.svg)](https://pypi.org/project/regml/)
+[![PyPI download week](https://img.shields.io/pypi/dw/regml.svg)](https://pypi.org/project/regml/)
+
+[![Generic badge](https://img.shields.io/badge/pip%20install-regml-blue.svg)](https://pypi.org/project/regml/)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:n.bajaj@qmul.ac.uk)
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/regml?style=social)
+
+
 #### All the coded and tested functions are in [RegML.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML.py) and GUIs code structure is in [RegML_GUIv2.1.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML_GUIv2.1.py)
 
 ## [Github Page](https://nikeshbajaj.github.io/Regularization_for_Machine_Learning/)
