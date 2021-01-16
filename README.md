@@ -40,7 +40,7 @@ regml.GUI()
 ```
 
 
-#### Methods
+### Regularization Methods
 * Regularized Least Squares -RLS [Referance](https://en.wikipedia.org/wiki/Regularized_least_squares)
 * Nu-Method [Referance]()
 * Iterative Landweber Method [Referance](https://en.wikipedia.org/wiki/Landweber_iteration)
@@ -48,7 +48,7 @@ regml.GUI()
 * Trunctated SVD [Referance 1](http://arxiv.org/pdf/0909.4061) [Referance 2](http://langvillea.people.cofc.edu/DISSECTION-LAB/Emmie%27sLSI-SVDModule/p5module.html)
 * Spectral cut-off
 
-#### Kernal Learning 
+### Kernal Learning 
 (Linear, Polynomial, Gaussian)
 * **Linear**: $K(X,Y) = X'Y$ 
   * ![equation1](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20X%5ETY)
