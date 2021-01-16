@@ -52,7 +52,7 @@ regml.GUI()
 (Linear, Polynomial, Gaussian)
 * Linear ![equation1](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20X%5ETY)
 * Polynomial ![equation2](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20%28X%5ET%20Y%20+%201%29%5Ep)
-* Gaussian (RBF) ![equation3](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20exp%5E%7B-%5Cleft%20%5C%7C%20X-Y%20%5Cright%20%5C%7C%5E2%20/%202%5Csigma%20%5E2%7D)
+* Gaussian (RBF) ![equation3](http://latex.codecogs.com/svg.latex?K(X,Y)&space;=&space;exp(-||X-Y||^2/2\sigma^2)" title="http://latex.codecogs.com/svg.latex?K(X,Y) = exp(-||X-Y||^2/2\sigma^2)")
 
 **K-Fold Cross Validation**
 
