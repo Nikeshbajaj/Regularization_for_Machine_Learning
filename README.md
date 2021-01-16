@@ -50,9 +50,13 @@ regml.GUI()
 
 #### Kernal Learning 
 (Linear, Polynomial, Gaussian)
-* Linear ![equation1](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20X%5ETY)
-* Polynomial ![equation2](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20%28X%5ET%20Y%20+%201%29%5Ep)
-* Gaussian (RBF) ![equation3](http://latex.codecogs.com/svg.latex?K(X,Y)&space;=&space;exp(-||X-Y||^2/2\sigma^2)" title="http://latex.codecogs.com/svg.latex?K(X,Y) = exp(-||X-Y||^2/2\sigma^2)")
+* **Linear**: $K(X,Y) = X'Y$ 
+  * ![equation1](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20X%5ETY)
+* **Polynomial**: $K(X,Y) = (X'Y +1)^p$ 
+  * ![equation2](http://latex.codecogs.com/gif.latex?%5Clarge%20K%28X%2CY%29%20%3D%20%28X%5ET%20Y%20+%201%29%5Ep)
+* **Gaussian (RBF)**: $K(X,Y) = exp(-||X-Y||^2/2\sigma^2)$ 
+  * ![equation3](https://latex.codecogs.com/gif.latex?K%28X%2CY%29%20%3D%20exp%28-%7C%7CX-Y%7C%7C%5E2/2%5Csigma%5E2%29)
+  
 
 **K-Fold Cross Validation**
 
