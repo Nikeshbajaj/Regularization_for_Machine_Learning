@@ -58,7 +58,7 @@ regml.GUI()
   * ![equation3](https://latex.codecogs.com/gif.latex?K%28X%2CY%29%20%3D%20exp%28-%7C%7CX-Y%7C%7C%5E2/2%5Csigma%5E2%29)
   
 
-**K-Fold Cross Validation**
+### **K-Fold Cross Validation**
 
 ## GUI
 <p align="center">
