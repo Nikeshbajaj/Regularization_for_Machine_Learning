@@ -121,6 +121,22 @@ Getting_Started_Demo is a IPython -Notebook, which can be open in Ipython-Notebo
 
 ______________________
 
+# Cite As
+```
+@software{nikesh_bajaj_2019_2646550,
+  author       = {Nikesh Bajaj},
+  title        = {{Nikeshbajaj/Regularization\_for\_Machine\_Learning 
+                   0.0.2}},
+  month        = apr,
+  year         = 2019,
+  publisher    = {Zenodo},
+  version      = {0.0.2},
+  doi          = {10.5281/zenodo.2646550},
+  url          = {https://doi.org/10.5281/zenodo.2646550}
+}
+```
+
+
 ### Nikesh Bajaj
 
 n.bajaj@qmul.ac.uk
