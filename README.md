@@ -12,6 +12,8 @@
 [![HitCount](http://hits.dwyl.io/nikeshbajaj/regml.svg)](http://hits.dwyl.io/nikeshbajaj/regml)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/nikeshbajaj/Regularization_for_Machine_Learning?style=plastic)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/nikeshbajaj/Regularization_for_Machine_Learning.svg)](http://isitmaintained.com/project/nikeshbajaj/Regularization_for_Machine_Learning "Percentage of issues still open")
+
+
 [![PyPI download month](https://img.shields.io/pypi/dm/regml.svg)](https://pypi.org/project/regml/)
 [![PyPI download week](https://img.shields.io/pypi/dw/regml.svg)](https://pypi.org/project/regml/)
 
@@ -20,6 +22,7 @@
 
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/regml?style=social)
 
+Total: [![PyPI download total](https://static.pepy.tech/personalized-badge/regml?period=total&units=international_system&left_color=black&right_color=orange&left_text=downloads)](https://pepy.tech/project/regml)
 
 #### All the coded and tested functions are in [RegML.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML.py) and GUIs code structure is in [RegML_GUIv2.1.py](https://github.com/Nikeshbajaj/Regularization_for_Machine_Learning/blob/master/RegML_GUIv2.1.py)
 
